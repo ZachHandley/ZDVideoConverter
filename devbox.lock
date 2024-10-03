@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "pnpm@latest": {
+      "last_modified": "2024-09-13T05:52:00Z",
+      "resolved": "github:NixOS/nixpkgs/673d99f1406cb09b8eb6feab4743ebdf70046557#pnpm",
+      "source": "devbox-search",
+      "version": "9.10.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/78jk4n2nn48f19cincpzk0fk1ylnhfw1-pnpm-9.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/78jk4n2nn48f19cincpzk0fk1ylnhfw1-pnpm-9.10.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sgkja64j6077yla4wm0f1zck60imxxv6-pnpm-9.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sgkja64j6077yla4wm0f1zck60imxxv6-pnpm-9.10.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zw1lnwjig1anr1gjkp5ps5g0pd03hxmn-pnpm-9.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zw1lnwjig1anr1gjkp5ps5g0pd03hxmn-pnpm-9.10.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8zlqhgw5hbakbk2850wvky9x2vqbsqyw-pnpm-9.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8zlqhgw5hbakbk2850wvky9x2vqbsqyw-pnpm-9.10.0"
+        }
+      }
+    }
+  }
+}
